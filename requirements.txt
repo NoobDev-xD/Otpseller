@@ -1,0 +1,11 @@
+hydrogram
+Pillow
+qrcode
+TgCrypto
+motor
+dnspython
+pycountry
+phonenumbers
+requests
+aiohttp
+python-dotenv
