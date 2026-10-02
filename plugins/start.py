@@ -127,10 +127,19 @@ async def show_main_menu(client, message):
 
     # 3. Text
     Text = (
-        f"Hey, {user_mention} ⚡🦁\n\nWelcome to Telegram Account Seller 🥂\n\n📱 Premium Telegram Accounts"
-"⚡ Fast & Easy Delivery"
-"🔐 Secure & Reliable Service\n\n━━━━━━━━━━━━━━━━━━━━\n\n🛒 To order, select an account below and follow the payment instructions"
-"💬 If you face any issues, feel free to contact me anytime. href='https://t.me/RudraNoxx Click Here<a/>"
+        f"f"<blockquote><b>Hey, {user_mention} ~ 🦁 ❞\n"
+        "𝖶𝖾𝗅𝖼𝗈𝗆𝖾 𝖳𝗈 Account Robot- 𝖥𝖺𝗌𝗍𝖾𝗌𝗍 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆 𝖠𝖼𝖼𝗈𝗎𝗇𝗍 𝖲𝖾𝗅𝗅𝖾𝗋 𝖡𝗈𝗍🥂\n"
+        "🛒 High-Quality Telegram Accounts & Sessions.\n\n"
+        "🚀 𝖤𝗇𝗃𝗈𝗒 𝖥𝖺𝗌𝗍 𝖠𝖼𝖼𝗈𝗎𝗇𝗍 𝖻𝗎𝗒𝗂𝗇𝗀 𝖤𝗑𝗉𝖾𝗋𝗂𝖾𝗇𝖼𝖾 !\n"
+        "------------------------------------------------\n"
+        "• Want Similar bot..? - <a href='https://t.me/GOOD_BOY_BANNY1433'>ᴄʟɪᴄᴋ ᴍᴇ🥀</a>\n\n"
+        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
+        "🚀 𝐅𝐚𝐬𝐭 & 𝐒𝐞𝐜𝐮𝐫𝐞 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐌𝐚𝐫𝐤𝐞𝐭𝐩𝐥𝐚𝐜𝐞\n"
+        "⚡️ 𝐈𝐧𝐬𝐭𝐚𝐧𝐭 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐲\n"
+        "🔐 𝐂𝐥𝐞𝐚𝐧 & 𝐑𝐞𝐥𝐢𝐚𝐛𝐥𝐞 𝐀𝐜𝐨𝐮𝐧𝐭𝐬\n"
+        "💬 𝟐𝟒/𝟕 𝐒𝐮𝐩𝐩𝐨𝐫𝐭\n"
+        "🔥 𝐒𝐦𝐨𝐨𝐭𝐡 • 𝐅𝐚𝐬𝐭 • 𝐓𝐫𝐮𝐬𝐭𝐞𝐝 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞\n"
+        "━━━━━━━━━━━━━━━━━━━━━━━━</b></blockquote>"
     )  
     # 4. Get message object
     if isinstance(message, CallbackQuery):
